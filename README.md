@@ -1,4 +1,4 @@
-![Card](https://github.com/Skgrendel/Skgrendel/assets/20147339/4238f143-d2a6-43f5-89b6-d3c496ef0ac4)
+![Card](https://github.com/Skgrendel/Skgrendel/assets/20147339/1edc4695-ea9a-481c-a557-a55844ab5b76)
 
 ***
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Skgrendel)
@@ -25,15 +25,11 @@
 ***
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7A7A7&random=false&width=435&lines=Stats)](https://git.io/typing-svg)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skgrendel&show_icons=true&locale=en&layout=compact" alt="skgrendel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skgrendel&show_icons=true&locale=en&layout=compact&theme=radical" alt="skgrendel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Skgrendel&show_icons=true&locale=en&theme=radical" alt="skgrendel" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skgrendel&theme=radical" alt="skgrendel" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Skgrendel&show_icons=true&locale=en" alt="skgrendel" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skgrendel" alt="skgrendel" /></a> </p>
-
-***
-
-https://pagespeed-insights.herokuapp.com?url=https://Skgrendel.github.io
 
 
 
