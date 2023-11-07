@@ -1,4 +1,4 @@
-![Cover](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg)
+![Card](https://github.com/Skgrendel/Skgrendel/assets/20147339/4238f143-d2a6-43f5-89b6-d3c496ef0ac4)
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ### Hi there 👋
