@@ -1,10 +1,10 @@
 ![Card](https://github.com/Skgrendel/Skgrendel/assets/20147339/1edc4695-ea9a-481c-a557-a55844ab5b76)
 
-***
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan Andion
-====================================================================================================================================
+
+--------------------------
 
 Web Developer and Designer
+
 --------------------------
 
 "Passionate software developer on a relentless quest for code perfection. I believe in the magic of technology to transform ideas into solutions. Shall we create something amazing together?"
@@ -40,17 +40,24 @@ Web Developer and Designer
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/bryanandion"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+<a href="https://www.ko-fi.com/bryanandion"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
 
-***
+### Visitor
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7A7A7&random=false&width=435&lines=Visitors)
-![Visitor Count](https://profile-counter.glitch.me/Skgrendel/count.svg)
-
-***
+<ul style="list-style-type: none; margin: 0;">
+<p align="">
+  <img src="https://profile-counter.glitch.me/Skgrendel/count.svg" alt="Visitor Count">
+</p>
+  </ul>
+  
+ --------------------------
+  
+<p align="center"> 
 <a href="https://github.com/Skgrendel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skgrendel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</p>
 
 
 
